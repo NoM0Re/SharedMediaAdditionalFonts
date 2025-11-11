@@ -34,6 +34,7 @@ SharedMediaAdditionalFonts:Register("font", "Baar Sophia", [[Interface\Addons\Sh
 SharedMediaAdditionalFonts:Register("font", "Blazed", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Blazed.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Boris Black Bloxx", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\BorisBlackBloxx.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Boris Black Bloxx Dirty", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\BorisBlackBloxxDirty.ttf]])
+SharedMediaAdditionalFonts:Register("font", "Century Gothic", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\centurygothic.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Collegiate", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\COLLEGIA.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Continuum Medium", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\ContinuumMedium.ttf]])
 SharedMediaAdditionalFonts:Register("font", "DejaVu Sans", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\DejaVuSans.ttf]])
@@ -49,6 +50,7 @@ SharedMediaAdditionalFonts:Register("font", "Liberation Sans", [[Interface\Addon
 SharedMediaAdditionalFonts:Register("font", "Liberation Serif", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\LiberationSerif-Regular.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Mystic Orbs", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\MystikOrbs.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Pokemon Solid", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Pokemon Solid.ttf]])
+SharedMediaAdditionalFonts:Register("font", "Prototype", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Prototype.ttf]])
 SharedMediaAdditionalFonts:Register("font", "PT Sans Narrow, Bold", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\PTSansNarrow-Bold.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Rock Show Whiplash", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Rock Show Whiplash.ttf]])
 SharedMediaAdditionalFonts:Register("font", "SF Diego Sans", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\SF Diego Sans.ttf]])
@@ -60,5 +62,6 @@ SharedMediaAdditionalFonts:Register("font", "Ubuntu Condensed", [[Interface\Addo
 SharedMediaAdditionalFonts:Register("font", "Ubuntu Light", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Ubuntu-L.ttf]])
 -- Should be "Waltograph UI, Bold", but has historically bee named this way.
 SharedMediaAdditionalFonts:Register("font", "Waltograph UI", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\waltographUI.ttf]])
+SharedMediaAdditionalFonts:Register("font", "Verdana", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Verdana.ttf]])
 SharedMediaAdditionalFonts:Register("font", "X360", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\X360.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Yanone Kaffeesatz Regular", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\YanoneKaffeesatz-Regular.ttf]])
