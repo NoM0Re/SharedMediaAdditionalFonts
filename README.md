@@ -15,7 +15,7 @@ List of popular addons that use LibSharedMedia:
 ## Current Status
 | Media      |      Count    |
 |------------|:-------------:|
-| Font       |     **34**    |
+| Font       |     **54**    |
 
 ## Install
 1. [Download the package.](https://github.com/NoM0Re/SharedMediaAdditionalFonts/archive/refs/heads/main.zip)
